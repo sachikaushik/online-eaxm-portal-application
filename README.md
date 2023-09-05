@@ -99,12 +99,6 @@ This project uses MongoDB as database. please install mongodb server in local en
 <!-- Run Locally -->
 ### :running: Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/chintan-golakiya/online-exam-portal.git
-```
-
 Go to the project directory
 
 ```bash
